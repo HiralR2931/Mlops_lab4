@@ -79,5 +79,5 @@ Top 10 words across the four plays:
 
 - Python 3
 - Apache Beam (DirectRunner)
-- pandas, matplotlib
 - Google Colab
+- pandas, matplotlib
